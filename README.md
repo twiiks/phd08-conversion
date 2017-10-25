@@ -1,8 +1,7 @@
 ## PHD08 Conversion
 
-> [phd08](https://www.dropbox.com/s/69cwkkqt4m1xl55/phd08.alz?dl=0) 
-데이터셋을 .png 로 저장하거나, numpy array 로 바로 변환 가능한 npy 파일 형태로 변환해 줍니다. 
-이미지 / 텍스트는 기존 바이너리로 되어 있던 것을 가우시안 필터로 블러링합니다.
+> Save the [phd08](https://www.dropbox.com/s/69cwkkqt4m1xl55/phd08.alz?dl=0) dataset as .png or convert it to a npy file format that can be converted directly into a numpy array.
+The image / text will be blurred with the Gaussian filter that was in the original binary.
 
 ## Requirements
 - python3
